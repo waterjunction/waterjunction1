@@ -9,7 +9,7 @@ body {
 
 
 .about-us {
-  background-color: #f9f9f9; /* Light gray background */
+  background-color: #0077b6; 
   padding: 20px;
   text-align: center;
   border-radius: 10px;
@@ -93,7 +93,7 @@ header {
   position: relative;
 }
 .second-header {
-  background-color: #86469C;
+  background-color: #333;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -145,7 +145,7 @@ header {
 }
 
 .contact {
-  background-color: #f4f4f4;
+  background-color: #333;
   padding: 20px;
 }
 
